@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.mainDiv {
+  height: 100vh;
+  background-color: #f1f5f8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.buttonsty {
+  cursor: pointer;
+  outline: none;
+  padding: 9px;
+  border-radius: 8px;
+  background-color: #007bff;
+  color: white;
+  border-width: 0px;
+}
+.spanele {
+  color: #c20a72;
+}
